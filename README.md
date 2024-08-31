@@ -14,7 +14,6 @@ Enter Your Destination: Simply input your travel destination into PlanIt.
 Receive Customized Plans: The system processes your input and generates a comprehensive plan tailored to your needs.
 Interact with the Chatbot: Use the integrated chatbot for instant help with any issues or questions. The chatbot is designed to address grievances and provide clear, helpful responses.
 Technologies Used
-Web Development: [List technologies or frameworks used, e.g., React, Node.js, etc.]
-API Integration: [Describe the chatbot API, e.g., custom-built, third-party service, etc.]
-Cost Management: [Mention any specific strategies or tools used to ensure cost-efficiency.]
+Web Development: HTML,CSS.
+API Integration: ChatBot, GeoLocation.
 PlanIt aims to revolutionize travel planning by combining user-friendly design with smart technology, ensuring a seamless and enjoyable experience for every traveler.
